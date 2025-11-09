@@ -112,7 +112,7 @@
         ["high_contrast"] = hex("#292937"),
         ["low_contrast"] = hex("#23232F"),
         ["text"] = hex("#B4B4B4"),
-        ["text_outline"] = rgb(0, 0, 0),
+        ["text_outline"] = hex("#000000"),
         ["glow"] = hex("#9B7DAF"),  
     },
 
