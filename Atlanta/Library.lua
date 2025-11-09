@@ -104,7 +104,6 @@
 	local config_flags = library.config_flags
 
 	local themes = {
-	local themes = {
     preset = {
         ["outline"] = hex("#202026"), -- 
         ["inline"] = hex("#3C374B"), --
